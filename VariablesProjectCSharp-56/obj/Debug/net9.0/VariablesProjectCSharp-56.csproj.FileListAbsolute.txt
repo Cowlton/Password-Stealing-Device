@@ -1,0 +1,14 @@
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\bin\Debug\net9.0\VariablesProjectCSharp-56.exe
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\bin\Debug\net9.0\VariablesProjectCSharp-56.deps.json
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\bin\Debug\net9.0\VariablesProjectCSharp-56.runtimeconfig.json
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\bin\Debug\net9.0\VariablesProjectCSharp-56.dll
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\bin\Debug\net9.0\VariablesProjectCSharp-56.pdb
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.AssemblyInfoInputs.cache
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.AssemblyInfo.cs
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.csproj.CoreCompileInputs.cache
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.dll
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\refint\VariablesProjectCSharp-56.dll
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.pdb
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.genruntimeconfig.cache
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\ref\VariablesProjectCSharp-56.dll
