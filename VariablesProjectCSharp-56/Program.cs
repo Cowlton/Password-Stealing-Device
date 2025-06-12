@@ -54,6 +54,7 @@ class Program
 
         if (PasswordStealAttempts == 4)
         {
+            Console.WriteLine(" ");
             Console.WriteLine("so here we are");
             Console.WriteLine("this is the 4th time you have told me your ''password''");
             Console.WriteLine("this time i take it you were smart and told me your real password.");
@@ -79,6 +80,7 @@ class Program
 
         if (PaswordIsCorrect == "yes")
         {
+            Console.WriteLine(" ");
             Console.WriteLine("it is?");
             Console.WriteLine("..(first try boss)..");
             Console.WriteLine("..(they didn't lie to me over and over again this time)..");
@@ -152,7 +154,6 @@ class Program
             Console.WriteLine("Ok then");
             Console.WriteLine("let me prove it");
             Console.WriteLine("Where do you live");
-            Console.WriteLine(" ");
             Console.WriteLine("wait a second");
             Console.WriteLine("i dont think this is working");
             Console.WriteLine("maybe i am bad at my job");
