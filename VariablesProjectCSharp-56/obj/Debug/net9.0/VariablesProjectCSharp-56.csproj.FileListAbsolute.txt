@@ -12,3 +12,4 @@ C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\ob
 C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.pdb
 C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.genruntimeconfig.cache
 C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\ref\VariablesProjectCSharp-56.dll
+C:\Users\wolfl\Desktop\repos\VariablesDemoCSharp-56\VariablesProjectCSharp-56\obj\Debug\net9.0\VariablesProjectCSharp-56.sourcelink.json
